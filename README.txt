@@ -1,4 +1,4 @@
-Navigate to <name-for-project> after cloning this repository. Then, navigate to museum. Open museum.pro. Qt Creator should open. Double-click the museum directory that shows up on the top left. Then click the monitor icon on the bottom left and select Profile under the build column. Under the run column, select MuseumWindow. Then, select the green play button under the monitor icon.
+Navigate to <name-for-project> after cloning this repository. Then, navigate to the Museum_Code directory. Open museum.pro. Qt Creator should open. Double-click the museum directory that shows up on the top left. Then click the monitor icon on the bottom left and select Profile under the build column. Under the run column, select MuseumWindow. Then, select the green play button under the monitor icon.
 
 
 PROJECT DESCRIPTION
