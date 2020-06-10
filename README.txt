@@ -1,10 +1,4 @@
-The current version of the project works 
-
-To clone the repository run the following terminal command in your desired directory.
-
-git clone ssh://museum@139.147.9.134:/home/museum/qtrepo_phan_kundu_johnson.git <name-for-project>
-
-<name-for-project> should be your own name of choice. Navigate to <name-for-project>. Then, navigate to museum. Open museum.pro. Qt Creator should open. Double-click the museum directory that shows up on the top left. Then click the monitor icon on the bottom left and select Profile under the build column. Under the run column, select MuseumWindow. Then, select the green play button under the monitor icon.
+Navigate to <name-for-project> after cloning this repository. Then, navigate to museum. Open museum.pro. Qt Creator should open. Double-click the museum directory that shows up on the top left. Then click the monitor icon on the bottom left and select Profile under the build column. Under the run column, select MuseumWindow. Then, select the green play button under the monitor icon.
 
 
 PROJECT DESCRIPTION
